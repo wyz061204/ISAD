@@ -68,7 +68,7 @@ git diff --check
 | 李明媛 | — |
 | 张奕涵 | — |
 | 姜均亿 | — |
-| 王耀主 | — |
+| 王耀主 | —[wyz061204](https://github.com/wyz061204) |
 | 郭晓晗 | [12345asd177](https://github.com/12345asd177) |
 | 丁燕楠 | [yanwang-yan](https://github.com/yanwang-yan) |
 | 江翊宁 | [fall12138](https://github.com/fall12138) |
